@@ -1,0 +1,2 @@
+# Build Your Own Custom Chatbot
+In this project, we will implement RAG on a chosen dataset to provide the relevant context to an LLM so that the LLM responses are accurate (as per the dataset) and reflective of the latest developments.
